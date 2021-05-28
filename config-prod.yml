@@ -1,0 +1,2 @@
+config:
+  info: env=prod&branch=master&version=1
