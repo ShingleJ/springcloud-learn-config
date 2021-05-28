@@ -1,0 +1,2 @@
+config:
+  info: env=test&branch=master&version=1
